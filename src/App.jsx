@@ -47,6 +47,7 @@ const App = () => {
                 <img
                     src="https://res.cloudinary.com/dixxtnquz/image/upload/v1700745473/SSG/WEBCONSTRACT_cmp4u7.svg"
                     alt="MainAsset"
+                    width={100}
                     className="w-[50rem] mt-16 md:mt-8 lg:mt-0"
                 />
                 <svg
