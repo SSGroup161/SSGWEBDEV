@@ -45,7 +45,7 @@ const App = () => {
                     </div>
                 </div>
                 <img
-                    src="https://res.cloudinary.com/dixxtnquz/image/upload/v1700745473/SSG/WEBCONSTRACT_cmp4u7.svg"
+                    src="https://res.cloudinary.com/dixxtnquz/image/upload/v1700751556/SSG/WEBCONSTRACTASSET_zjvxsm.png"
                     alt="MainAsset"
                     width={100}
                     className="w-[50rem] mt-16 md:mt-8 lg:mt-0"
