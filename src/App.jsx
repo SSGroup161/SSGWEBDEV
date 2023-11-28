@@ -48,7 +48,7 @@ const App = () => {
                     src="https://res.cloudinary.com/dixxtnquz/image/upload/v1700751556/SSG/WEBCONSTRACTASSET_zjvxsm.png"
                     alt="MainAsset"
                     width={100}
-                    className="w-[50rem] mt-16 md:mt-8 lg:mt-0"
+                    className="w-[30rem] md:w-[35rem] lg:w-[50rem] mt-16 md:mt-8 lg:mt-0"
                 />
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +78,7 @@ const App = () => {
                         fill="#FFEFCB"
                     />
                 </svg>
-                <div className="absolute bottom-0 flex flex-col items-center mb-2 md:mb-8 z-20">
+                <div className="absolute bottom-0 flex flex-col items-center mb-2 md:mb-6 lg:mb-4 z-20">
                     <h1 className="font-roboto text-white text-center font-light tracking-wider text-xs md:text-base">
                         For more, contact us at:
                     </h1>
